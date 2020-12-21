@@ -1,2 +1,2 @@
 # Football
-Futbol oyunu
+Futbol oyunu. Sonu güzel bitiyor. İyi oyunlar.
